@@ -1,0 +1,13 @@
+{
+  "version": 2,
+  "dgSpecHash": "7UWstwLiUSJyyE0VZIeqvhIdps02/BK0LxjFkIjhZsUu3U7Ite/bxGYrrXLneE2M7QPtv223UR/rPf//Ez6fkg==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\Ravi\\Desktop\\trilha-net-testes-unitarios-desafio-main\\trilha-net-testes-unitarios-desafio-main\\TestesUnitarios.Desafio.Console\\TestesUnitarios.Desafio.Console.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\Ravi\\.nuget\\packages\\microsoft.netcore.app.ref\\6.0.25\\microsoft.netcore.app.ref.6.0.25.nupkg.sha512",
+    "C:\\Users\\Ravi\\.nuget\\packages\\microsoft.windowsdesktop.app.ref\\6.0.25\\microsoft.windowsdesktop.app.ref.6.0.25.nupkg.sha512",
+    "C:\\Users\\Ravi\\.nuget\\packages\\microsoft.aspnetcore.app.ref\\6.0.25\\microsoft.aspnetcore.app.ref.6.0.25.nupkg.sha512",
+    "C:\\Users\\Ravi\\.nuget\\packages\\microsoft.netcore.app.host.win-x64\\6.0.25\\microsoft.netcore.app.host.win-x64.6.0.25.nupkg.sha512"
+  ],
+  "logs": []
+}
